@@ -2,7 +2,7 @@
 **Building Full Stack Web Apps using AI Agents. Python as the backend and React (with Chakra-UI) as the front-end.**
 
 ## What are we building?
-Full stack apps, with user-friendly Python for backend development and robust React for the frontend. This is further enhanced with the Chakra-ui library, a component-based system that aids in creating responsive and visually appealing interfaces.
+Full stack apps, with user-friendly Python for backend development and robust React for the frontend. This is further enhanced with the [Chakra-ui](https://chakra-ui.com) library, a component-based system that aids in creating responsive and visually appealing interfaces.
 
 ## Tool in use
 [Databutton](https://www.databutton.io) - an **online platform** that simplifies app creation, making it **conversational and operationally-ready**. It introduces a unique approach with two **AI agents**, **Brain** and **Builder**, collaborating in the app development process. These agents work together, utilizing the latest AI stacks to seamlessly integrate **Python** and **ReactJS**. 
