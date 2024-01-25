@@ -1,5 +1,5 @@
 # Databutton-v2-Apps
-**Building Full Stack Web Apps using AI Agents. Python as the backend and React (with Chakra-UI) as the front-end**
+**Building Full Stack Web Apps using AI Agents. Python as the backend and React (with Chakra-UI) as the front-end.**
 
 ## What are we building?
 Full stack apps, with user-friendly Python for backend development and robust React for the frontend. This is further enhanced with the Chakra-ui library, a component-based system that aids in creating responsive and visually appealing interfaces.
