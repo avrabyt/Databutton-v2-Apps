@@ -28,6 +28,9 @@ Full stack apps, with user-friendly Python for backend development and robust Re
 ## Do I need to know coding?
 Most tasks are done via **prompting**. However, I won't say it is an alternative to programming,rather your **companion while developing**. 
 
+## What will this repo consists of?
+Projects finished with Databutton v2. That means,all the front-end and backend related files. Requirements files. 
+
 ## Technical Resources
 - [Building Next-Gen Apps with AI Agents](https://medium.com/databutton/building-next-gen-apps-with-ai-agents-f18551c71218)
 - [Prototyping Ideas to Full Stack GenAI Web Apps for PoCs and Internal Tools](https://medium.com/databutton/prototyping-ideas-to-full-stack-genai-web-apps-for-pocs-and-internal-tools-1743bf260916)
