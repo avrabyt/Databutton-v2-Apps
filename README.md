@@ -23,7 +23,7 @@ Full stack apps, with user-friendly Python for backend development and robust Re
 
 ✅ Managing secrets, package installations , API calls etc 
 
-✅ Last but not the least, throughot the Agents would generate, debug and self execute the code through constant communication
+✅ Generate, debug and self execute code 
 
 ## Do I need to know coding?
 Most tasks are done via **prompting**. However, I won't say it is an alternative to programming,rather your **companion while developing**. 
